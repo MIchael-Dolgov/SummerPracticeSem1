@@ -12,7 +12,6 @@ unary = ['~']
 
 def polska_postfix(string:str) -> str:
     """
-        O Kurwa, ya perdole
         Prioriteti:
         1) )
         2) ~(not)
